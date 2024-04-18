@@ -51,7 +51,7 @@ header button:hover {
 }
 
 .box {
-  width: 100%;
+  width: 50%;
   padding-top: 51px;
 }
 
@@ -87,7 +87,7 @@ header button:hover {
 }
 
 .container img {
-  width: 100%;
+  width: 50%;
 }
 
 /* MID PAGE */
